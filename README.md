@@ -1,9 +1,9 @@
 <h1>Hello 👋🏻, I'm Guilherme a Full Stack Developer</h1>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
-<h4> 👨🏻‍💻 Nowdays i am working with Flutter and C# </h4>
+<h3> 👨🏻‍💻 Nowdays i am working with Flutter and C# </h3>
+![flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
 
-<h4>📚 Always studying about Flutter, C#, .NET and UI/UX</h4>
+<h3>📚 Always studying about Flutter, C#, .NET and UI/UX</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
