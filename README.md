@@ -1,4 +1,5 @@
 <h1>Hello 👋🏻, I'm Guilherme a Full Stack Developer</h1>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <h4> 👨🏻‍💻 Nowdays i am working with Flutter and C# </h4>
 
