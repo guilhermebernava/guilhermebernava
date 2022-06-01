@@ -37,12 +37,15 @@
 ##
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;" ><br>
-   <img align="center" style="margin: 100px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
+   <img align="center" style="margin: 100px" src="https://flutterx.com/thumbnails/artifact-1922.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
 
 <img align="center"  src="https://controlzeta.github.io/img/c_sharp_logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   
   <img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   <img align="center" src="https://mlposwajeygw.i.optimole.com/C3ZG6aY.IQWs~1e938/w:816/h:816/q:94/https://www.bryntum.com/wp-content/uploads/2019/03/ts.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
+  
+  <img align="center" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
+  
   
 ![Snake animation](https://github.com/filipirafael/filipirafael/blob/output/github-contribution-grid-snake.svg)
   
