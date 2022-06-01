@@ -1,8 +1,6 @@
 <h1>Hello 👋🏻, I'm Guilherme a Full Stack Developer</h1>
 
 <h4> 👨🏻‍💻 Nowdays i am working with Flutter and C# </h4>
-![pngwing com](https://user-images.githubusercontent.com/36882198/171313804-2bbe1f2a-2770-478f-b429-4f72ed327bab.png)
-
 
 <h4>📚 Always studying about Flutter, C#, .NET and UI/UX</h4>
 
