@@ -23,11 +23,11 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=payflow_app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=letmeask&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=bytebank_app&theme=radical" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=basic-api-adonisJs&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
