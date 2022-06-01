@@ -6,12 +6,10 @@
 
 <h4>📚 Always studying about Flutter, C#, .NET and UI/UX</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebernava&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
 
+<h2>Main Repositories 🔓</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=my_expanses_api&theme=radical" />
 </a>
