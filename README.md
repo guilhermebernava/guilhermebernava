@@ -10,9 +10,9 @@
 ![](https://img.shields.io/github/followers/guilhermebernava?color=green&logo=github)
 ![](https://img.shields.io/badge/Ready%20To%20Work-1000%25-green)
 
-<h3> 👨🏻‍💻 Nowdays I'm working with Flutter, C Sharp, ReactJs and NodeJs</h3>
+<h3> 👨🏻‍💻 Nowdays I'm working with Flutter Swift ,and C Sharp</h3>
 
-<h3>📚 Always studying about Flutter, .NET, React, Typescript and UI/UX</h3>
+<h3>📚 Always studying about Flutter, .NET, Swift and UI/UX</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
