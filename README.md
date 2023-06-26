@@ -1,6 +1,6 @@
 
 
-<h1>Hello 👋🏻, I'm Guilherme a Full Stack Developer</h1>
+<h1>Hello 👋🏻, I'm Guilherme a Backend Developer</h1>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernava-32b660219/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bernava.21/)
@@ -10,9 +10,9 @@
 ![](https://img.shields.io/github/followers/guilhermebernava?color=green&logo=github)
 ![](https://img.shields.io/badge/Ready%20To%20Work-1000%25-green)
 
-<h3> 👨🏻‍💻 Nowdays I'm working with Flutter Swift ,and C Sharp</h3>
+<h3> 👨🏻‍💻 Nowdays I'm working with C Sharp</h3>
 
-<h3>📚 Always studying about Flutter, .NET, Swift and UI/UX</h3>
+<h3>📚 Always studying about C#, .NET</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
@@ -43,8 +43,6 @@
   
   <img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   <img align="center" src="https://mlposwajeygw.i.optimole.com/C3ZG6aY.IQWs~1e938/w:816/h:816/q:94/https://www.bryntum.com/wp-content/uploads/2019/03/ts.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
-  
-  <img align="center" alt="Pablo-Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   
 ![Snake animation](https://github.com/filipirafael/filipirafael/blob/output/github-contribution-grid-snake.svg)
   
