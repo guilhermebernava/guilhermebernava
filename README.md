@@ -6,7 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bernava.21/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebernava00@gmail.com)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=guilhermebernava.visitor-badge&left_color=grey&right_color=green&left_text=Hello%20Visitors)
 ![](https://img.shields.io/github/followers/guilhermebernava?color=green&logo=github)
 ![](https://img.shields.io/badge/Ready%20To%20Work-1000%25-green)
 
