@@ -22,10 +22,6 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=entityframework_studyp&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=JsonConverter&theme=radical" />
 </a>
 
