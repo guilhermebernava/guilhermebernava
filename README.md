@@ -8,10 +8,10 @@
 ![](https://img.shields.io/badge/Ready%20To%20Work-1000%25-green)
 
 <h3> 👨🏻‍💻 Nowdays I'm working with C Sharp</h3>
-
+<br/>
 <p>I am a software developer passionate about the world of backend development. With 2 years of experience in the industry, my goal is to drive significant results and create a positive impact on challenging projects.
 My expertise covers a wide range of technologies, including C#, .NET, ReactJs, HTML, CSS, and JavaScript. I am recognized for my commitment to continuously improve my skills and promote collaboration among teams.</p>
-
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
 
@@ -23,11 +23,16 @@ My expertise covers a wide range of technologies, including C#, .NET, ReactJs, H
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=my_expanses_api&theme=radical" />
 </a>
+
+<br/>
+<br/>
 <div style="display: flex; flex-direction: row; justify-content: space-between;" ><br>
   <img align="center"  src="https://controlzeta.github.io/img/c_sharp_logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   <img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   <img align="center" src="https://mlposwajeygw.i.optimole.com/C3ZG6aY.IQWs~1e938/w:816/h:816/q:94/https://www.bryntum.com/wp-content/uploads/2019/03/ts.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
 </div>
+<br/>
+<br/>
 
 ![Snake animation](https://github.com/guilhermebernava/guilhermebernava/blob/output/github-contribution-grid-snake.svg)
 
