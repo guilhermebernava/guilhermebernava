@@ -20,15 +20,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=LoginApi&theme=radical" />
 </a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=JsonConverter&theme=radical" />
-</a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=my_expanses_api&theme=radical" />
 </a>
-
 ##
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;" ><br>
