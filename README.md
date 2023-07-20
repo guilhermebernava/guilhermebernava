@@ -9,8 +9,8 @@
 
 <h3> 👨🏻‍💻 Nowdays I'm working with C Sharp</h3>
 
-<p>Sou um desenvolvedor de software apaixonado pelo mundo do desenvolvimento backend. Com 2 anos de experiência no setor, meu objetivo é impulsionar resultados significativos e criar um impacto positivo em projetos desafiadores.
-Minha expertise abrange uma ampla gama de tecnologias, incluindo C#, .NET, ReactJs, HTML, CSS e JavaScript. Sou reconhecido pelo meu comprometimento em aprimorar constantemente minhas habilidades e promover a colaboração entre as equipes.</p>
+<p>I am a software developer passionate about the world of backend development. With 2 years of experience in the industry, my goal is to drive significant results and create a positive impact on challenging projects.
+My expertise covers a wide range of technologies, including C#, .NET, ReactJs, HTML, CSS, and JavaScript. I am recognized for my commitment to continuously improve my skills and promote collaboration among teams.</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
