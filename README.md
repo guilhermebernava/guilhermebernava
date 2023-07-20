@@ -1,3 +1,4 @@
+<div align="center">
 <h1>Hello 👋🏻, I'm Guilherme a Backend Developer</h1>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernava-32b660219/)
@@ -15,7 +16,7 @@
 </p>
 
 
-<div align="center">
+
 <br/>
 <p>I am a software developer passionate about the world of backend development. With 2 years of experience in the industry, my goal is to drive significant results and create a positive impact on challenging projects.
 My expertise covers a wide range of technologies, including C#, .NET, ReactJs, HTML, CSS, and JavaScript. I am recognized for my commitment to continuously improve my skills and promote collaboration among teams.</p>
