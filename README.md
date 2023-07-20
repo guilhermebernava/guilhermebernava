@@ -28,5 +28,6 @@
   <img align="center"  src="https://controlzeta.github.io/img/c_sharp_logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   <img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
   <img align="center" src="https://mlposwajeygw.i.optimole.com/C3ZG6aY.IQWs~1e938/w:816/h:816/q:94/https://www.bryntum.com/wp-content/uploads/2019/03/ts.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50"/>
+  
   ![Snake animation](https://github.com/filipirafael/filipirafael/blob/output/github-contribution-grid-snake.svg) 
 </div>
