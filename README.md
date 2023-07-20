@@ -9,7 +9,8 @@
 
 <h3> 👨🏻‍💻 Nowdays I'm working with C Sharp</h3>
 
-<h3>📚 Always studying about C#, .NET</h3>
+<h3>Sou um desenvolvedor de software apaixonado pelo mundo do desenvolvimento backend. Com 2 anos de experiência no setor, meu objetivo é impulsionar resultados significativos e criar um impacto positivo em projetos desafiadores.
+Minha expertise abrange uma ampla gama de tecnologias, incluindo C#, .NET, ReactJs, HTML, CSS e JavaScript. Sou reconhecido pelo meu comprometimento em aprimorar constantemente minhas habilidades e promover a colaboração entre as equipes.</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernava&show_icons=true&theme=radical)
@@ -17,9 +18,6 @@
 <h2>Main Repositories 🔓</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=LoginApi&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=my_expanses_api&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=my_expanses_api&theme=radical" />
