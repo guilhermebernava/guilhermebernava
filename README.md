@@ -18,19 +18,19 @@
 
 <h2>Main Repositories 🔓</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=shop_app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=LoginApi&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=meals_app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=entityframework_studyp&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=poke_app&theme=radical" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=JsonConverter&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=personal_expanses&theme=radical" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebernava&repo=my_expanses_api&theme=radical" />
 </a>
 
 ##
