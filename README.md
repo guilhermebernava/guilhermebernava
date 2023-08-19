@@ -9,7 +9,7 @@
     My expertise spans a wide range of technologies, including C#, .NET, AWS, Azure, Docker, Kubernetes, React, HTML, CSS, and JavaScript, SQL and NoSQL. I am always studying and improving my technical knowledge and soft skills.
     <br/>
     <br/>
-    Nowdays i am studying english too.
+     I am studying a college course in Analysis and Systems Development and learning English on my own.
     <br/>
     <br/>
   </div>
