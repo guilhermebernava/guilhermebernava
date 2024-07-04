@@ -3,7 +3,7 @@
   <div align="left" style="display: flex; flex-direction: column; align-items: space-between; justify-content: space-between;">  
     <h1>About Me 💫</h1>
     <br/>
-    I am a passionate software developer with a keen interest in the world of backend development. With 2 years of industry experience, my goal is to drive meaningful outcomes and make a positive impact on challenging projects.
+    I am a passionate software developer with a keen interest in the world of backend development. my goal is to drive meaningful outcomes and make a positive impact on challenging projects.
     <br>
     <br>
     My expertise spans a wide range of technologies, including C#, .NET, AWS, Azure, Docker, Kubernetes, React, HTML, CSS, and JavaScript, SQL and NoSQL. I am always studying and improving my technical knowledge and soft skills.
