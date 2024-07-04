@@ -6,7 +6,7 @@
     I am a passionate software developer with a keen interest in the world of backend development. my goal is to drive meaningful outcomes and make a positive impact on challenging projects.
     <br>
     <br>
-    My expertise spans a wide range of technologies, including C#, .NET, AWS, Azure, Docker, Kubernetes, React, HTML, CSS, and JavaScript, SQL and NoSQL. I am always studying and improving my technical knowledge and soft skills.
+    My expertise spans a wide range of technologies, including C#, .NET, AWS, Azure, Docker, Kubernetes, React, HTML, CSS, JavaScript, SQL and NoSQL. I am always studying and improving my technical knowledge and soft skills.
     <br/>
     <br/>
      I am studying a college course in Analysis and Systems Development and learning English on my own.
